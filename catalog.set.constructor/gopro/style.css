@@ -1,0 +1,36 @@
+.set .js-element .checkbox.in .icon{
+	background-position:-13px -255px;
+}
+
+.pngicons, .showcase .share .b-share-icon, .rsgppopup .share .b-share-icon {
+    background-image: url('img/icons.png?v100');
+}
+
+.set .js-element .checkbox .icon {
+    width: 13px;
+    height: 13px;
+    background-position: 0px -255px;
+}
+div.name {    display: table-cell;
+    vertical-align: middle;
+    padding-left: 10px;    width: 80%;}
+	
+div.pic,div.prices,span.plusik,a.checkbox,a.delete {display: table-cell; vertical-align: middle;}
+.sliderin  div.js-element {display:table;    width: 100%;    border-top: 1px solid #C9CBC3;}
+div.prices { color: #1B729D; font-size: 16px;text-align:right;    width: 15%;}
+.sliderin .js-element div.pic a img.sm {       height: 50px;
+    width: 50px;
+    max-width: 40px;
+    max-height: 40px; }
+	
+.sliderin .js-element div.pic a img.sm {    max-height: 50px;}	
+	
+.name h4 {font-size:14px;}
+.name h4 a {    color: #214496!important;}
+.sliderin {    margin-top: -18px;}
+
+.yg_table {width:80%;    margin-left: 5%;}
+.yg_table tr td{width:50%!important;}
+/*a.checkbox {width: 10px;max-width:15px;}*/
+
+.sliderin .js-element :hover {background-color:#F3F3F3;}
